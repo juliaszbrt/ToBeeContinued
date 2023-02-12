@@ -21,6 +21,11 @@ nav {
     font-family: didot;
 }
 
+#logo:hover {
+    color: #ac8511;
+    transition: 0.7s;
+}
+
 label {
     display: block;
 }
@@ -35,6 +40,7 @@ label {
     color: #795B0E;
     padding-left: 5px;
     font-size: 13px;
+    background-color: rgb(247, 212, 118);
 }
 
 input[type="submit"] {
@@ -50,11 +56,17 @@ input[type="submit"] {
     display: flex;
     justify-content: center;
     text-decoration: none;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 input {
     background-color: rgb(255, 226, 147);
+}
+
+#input-submit:hover {
+    background-color: rgb(214, 167, 47);
+    color: rgb(255, 226, 193);
+    transition: 0.7s;
 }
 
 #keywords-label {
@@ -107,4 +119,16 @@ img {
     justify-content: center;
     gap: 105px;
     color: #795B0E;
+}
+
+#back {
+    text-decoration: none;
+    color: #795B0E;
+    display: flex;
+    justify-content: center;
+}
+
+#back:hover {
+    color: #ac8511;
+    transition: 0.7s;
 }
