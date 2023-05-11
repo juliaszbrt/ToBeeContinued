@@ -2,7 +2,9 @@
 
 Have you ever wanted to pursue the same acts as an aspiring writter but were limited by a lack of professional writing skills? ToBeeContinued uses its smart AI Solution to create scripts and visuals for you, streamlining the entire production process for all! 📝🤖🐝
 
+Witness our Website in Action!: https://www.youtube.com/watch?v=h087Z7Eho3c
 Currently Hosted Upon: https://keitannunes.ca/tbc/ (expired GPT-3 API)
+Devpost: https://devpost.com/software/tobecontinued
 
 ### Inspiration
 
