@@ -2,10 +2,11 @@
 
 Have you ever wanted to pursue the same acts as an aspiring writter but were limited by a lack of professional writing skills? ToBeeContinued uses its smart AI Solution to create scripts and visuals for you, streamlining the entire production process for all! 📝🤖🐝
 
+Currently Hosted Upon: https://keitannunes.ca/tbc/ (expired GPT-3 API)
 
 ### Inspiration
 
-We were inspired by Wattpad's creative outlet for letting authours tell stories and realized that people deserve to read stories tailored to their own needs too. "To Bee Continued" helps people not only get the ball rolling when it comes to producing scripts, visual graphics, and general flow of plot, but also provides ready to access entertainment for all users. It is a very excited website and is all working within our cute Bee themed website!
+We were inspired by Wattpad's creative outlet for letting authours tell stories and realized that people deserve to read stories tailored to their own needs too. "To Bee Continued" helps people not only get the ball rolling when it comes to producing scripts, visual graphics, and general flow of plot, but also provides ready to access entertainment for all users. It is a very exciting website and is all working within our cute Bee themed website!
 
 
 ## Our Team
